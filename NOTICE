@@ -1,0 +1,9 @@
+Palenight Exact
+
+Contains the material-theme-palenight color theme from
+antfu/vsc-material-theme (https://github.com/antfu/vsc-material-theme),
+as redistributed by tm-themes 1.10.12.
+Copyright 2017 Mattia Astorino. Licensed under the Apache License, Version 2.0.
+
+Changes: the theme's "name" field was renamed to "Palenight Exact".
+The colors and token rules are unchanged.

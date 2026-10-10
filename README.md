@@ -28,4 +28,4 @@ Shiki colors code with TextMate grammars only. For the closest match, turn off s
 
 ## Credits
 
-The theme is the `material-theme-palenight` theme distributed by [tm-themes](https://github.com/shikijs/textmate-grammars-themes), from [antfu/vsc-material-theme](https://github.com/antfu/vsc-material-theme). The original Material Theme is by Mattia Astorino. Licensed under Apache-2.0; see the LICENSE and NOTICE files bundled with the extension.
+The theme is the `material-theme-palenight` theme distributed by [tm-themes](https://github.com/shikijs/textmate-grammars-themes), from [antfu/vsc-material-theme](https://github.com/antfu/vsc-material-theme). The original Material Theme is by Mattia Astorino. Licensed under Apache-2.0; see [LICENSE](LICENSE) and [NOTICE](NOTICE).

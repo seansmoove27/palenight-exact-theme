@@ -5,6 +5,10 @@
   "version": "1.0.0",
   "publisher": "see-ann",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/see-ann/palenight-exact-theme"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
